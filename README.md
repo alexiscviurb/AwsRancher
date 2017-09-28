@@ -1,0 +1,1 @@
+Programa para desligar e ligar instâncias ec2 na AWS e simultâneo a isso parar e iniciar serviços no Rancher
